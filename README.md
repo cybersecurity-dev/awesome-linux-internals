@@ -1,4 +1,4 @@
-# Awesome [Linux](https://en.wikipedia.org/wiki/History_of_Linux) [Internals](https://en.wikipedia.org/wiki/Unix_architecture) [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) 
+# Awesome [Linux](https://en.wikipedia.org/wiki/Linux) [Internals](https://en.wikipedia.org/wiki/History_of_Linux) [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) 
 
 <p align="center">
     <a href="https://github.com/cybersecurity-dev/"><img height="25" src="https://github.com/cybersecurity-dev/cybersecurity-dev/blob/main/assets/github.svg" alt="GitHub"></a>
@@ -8,3 +8,39 @@
     <a href="https://cyberthreatdefence.com/my_awesome_lists"><img height="20" src="https://github.com/cybersecurity-dev/cybersecurity-dev/blob/main/assets/blog.svg" alt="My Awesome Lists"></a>
     <img src="https://github.com/cybersecurity-dev/cybersecurity-dev/blob/main/assets/bar.gif">
 </p>
+
+
+## 📖 Contents
+- [System Architecture](#system-architecture)
+- [Processes and Jobs](#processes-and-jobs)
+- [Threads](#threads)
+- [Memory Management](#memory-management)
+- [I/O System](#io-system)
+- [My Other Awesome Lists](#my-other-awesome-lists)
+- [Contributing](#contributing)
+- [Contributors](#contributors)
+
+
+### System [Architecture](https://en.wikipedia.org/wiki/Linux_kernel)
+
+### [Processes](https://en.wikipedia.org/wiki/Process_(computing)) and Jobs
+
+### [Threads](https://en.wikipedia.org/wiki/Thread_(computing))
+
+### Memory [Management](https://en.wikipedia.org/wiki/Memory_management_(operating_systems))
+
+### [I/O](https://en.wikipedia.org/wiki/List_of_file_systems) System
+
+
+## 
+
+### My Other Awesome Lists
+You can access the my other awesome lists [here](https://cyberthreatdefence.com/my_awesome_lists)
+
+### Contributing
+[Contributions of any kind welcome, just follow the guidelines](contributing.md)!
+
+### Contributors
+[Thanks goes to these contributors](https://github.com/cybersecurity-dev/awesome-linux-internals/graphs/contributors)!
+
+[🔼 Back to top](#awesome-linux-internals-)
