@@ -1,3 +1,7 @@
+<p align="center">
+  <img width="15%" src="https://github.com/cybersecurity-dev/cybersecurity-dev/blob/main/assets/Tux.svg" />
+</p>
+
 # Awesome [Linux](https://en.wikipedia.org/wiki/Linux) [Internals](https://en.wikipedia.org/wiki/History_of_Linux) [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) 
 
 <p align="center">
