@@ -52,12 +52,50 @@ mindmap
 <p align="center">
     <a href="https://github.com/cybersecurity-dev/"><img height="25" src="https://github.com/cybersecurity-dev/cybersecurity-dev/blob/main/assets/github.svg" alt="GitHub"></a>
     &nbsp;
-    <a href="https://www.youtube.com/@CyberThreatDefence"><img height="25" src="https://github.com/cybersecurity-dev/cybersecurity-dev/blob/main/assets/youtube.svg" alt="YouTube"></a>
+    <a href="https://www.youtube.com/@CyberThreatDefense"><img height="25" src="https://github.com/cybersecurity-dev/cybersecurity-dev/blob/main/assets/youtube.svg" alt="YouTube"></a>
     &nbsp;
     <a href="https://cyberthreatdefence.com/my_awesome_lists"><img height="20" src="https://github.com/cybersecurity-dev/cybersecurity-dev/blob/main/assets/blog.svg" alt="My Awesome Lists"></a>
     <img src="https://github.com/cybersecurity-dev/cybersecurity-dev/blob/main/assets/bar.gif">
 </p>
 
+```mermaid
+flowchart TB
+
+    subgraph Firmware Stage
+        A[Power On]
+        B[BIOS / UEFI]
+        C[GRUB2 Bootloader]
+    end
+
+    subgraph Kernel Space
+        D[Linux Kernel]
+        E[Memory Initialization]
+        F[Process Scheduler]
+        G[Device Drivers]
+        H[initramfs]
+    end
+
+    subgraph User Space
+        I[Root Filesystem]
+        J[systemd PID 1]
+        K[System Services]
+        L[Login Manager]
+        M[User Applications]
+    end
+
+    A --> B --> C --> D
+
+    D --> E
+    D --> F
+    D --> G
+    D --> H
+
+    H --> I
+    I --> J
+    J --> K
+    K --> L
+    L --> M
+```
 
 ## 📖 Contents
 - [System Architecture](#system-architecture)
