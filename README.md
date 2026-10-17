@@ -5,6 +5,43 @@
         </a>
     </p>
 
+```mermaid
+mindmap
+  root((Linux Internals))
+
+    Processes & Jobs
+      Process Creation
+      Scheduling
+      Signals
+      Process States
+
+    Threads
+      Pthreads
+      Mutexes
+      Semaphores
+      Synchronization
+
+    Memory Management
+      Virtual Memory
+      Paging
+      Allocator
+      Page Cache
+
+    I/O System
+      VFS
+      File Systems
+      Drivers
+      Networking
+
+    Other Topics
+      System Calls
+      IPC
+      Security
+      Kernel Modules
+      Containers
+      eBPF
+```
+
 # **`Awesome`** [Linux](https://wikipedia.org/wiki/Linux) [Internals](https://wikipedia.org/wiki/History_of_Linux) [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 </div>
 
